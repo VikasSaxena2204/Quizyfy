@@ -1,0 +1,23 @@
+.footer {
+    background-color: #1C3A3D; 
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: fit-content;
+}
+
+.footer-content {
+    margin: 0 auto;
+}
+
+.github-link {
+    color: #f8b953; 
+    text-decoration: none;
+}
+
+.github-link:hover {
+    text-decoration: underline;
+}
