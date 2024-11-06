@@ -1,5 +1,5 @@
 <h1 align="center">
-       ✨  Quizify  ✨
+       ✨  Quizyfy  ✨
 </h1>
 
 <div align="center">
@@ -49,7 +49,7 @@ Quizyfy is a quiz web app is built using React JS. It can allow the user to sele
 - Go to directory
 
 ```
-$ cd Quizify-App
+$ cd Quizyfy-App
 ```
 
 - Install Dependency
