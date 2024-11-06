@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Chakra_UI-6066C7?style=for-the-badge&logo=chakraui&logoColor=white"/>
 
 - **Frontend:** HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI
+- **Quiz API:** OpenTDB API (https://opentdb.com/api/)
 - **Version Control:** Git and GitHub
 - **Hosting:** Vercel
 - **Code Editor and tools**: VS Code
