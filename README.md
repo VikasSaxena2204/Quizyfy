@@ -49,7 +49,7 @@ Quizyfy is a quiz web app is built using React JS. It can allow the user to sele
 - Go to directory
 
 ```
-$ cd Quiz-App
+$ cd Quizify-App
 ```
 
 - Install Dependency
