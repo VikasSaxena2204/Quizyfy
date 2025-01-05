@@ -2,6 +2,12 @@
        ✨  Quizyfy  ✨
 </h1>
 
+## Overview 🔨
+
+Quizyfy is a quiz web app built using React JS. It allows the user to select the criteria for their quiz from a list of options. The user can then proceed to answer the questions in the quiz, and their performance will be tracked and shown in the scoreboard. Moreover, the app can be designed to be responsive and user-friendly.
+
+  <br />
+
 <div align="center">
 
 ![Badge](https://img.shields.io/badge/Tech_Stack-HTML-orange)
@@ -37,13 +43,7 @@
     - Contribution Guideline
 
  <br />
-
-## Overview 🔨
-
-Quizyfy is a quiz web app is built using React JS. It can allow the user to select the criteria for their quiz from a list of options. The user can then proceed to answer the questions in the quiz and their performance will be tracked and shown in the scoreboard. Moreover, the app can be designed to be responsive and user-friendly.
-
-  <br />
-
+ 
 ## Setup Steps
 
 - Go to directory
